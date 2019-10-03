@@ -1,0 +1,7 @@
+C:\git\Podstawy_programowania\Pierwsze zajecia\Zajęcia 03.10.2019\Zajęcia 03.10.2019\obj\Debug\Zajęcia 03.10.2019.csprojAssemblyReference.cache
+C:\git\Podstawy_programowania\Pierwsze zajecia\Zajęcia 03.10.2019\Zajęcia 03.10.2019\obj\Debug\Zajęcia 03.10.2019.csproj.CoreCompileInputs.cache
+C:\git\Podstawy_programowania\Pierwsze zajecia\Zajęcia 03.10.2019\Zajęcia 03.10.2019\bin\Debug\Zajęcia 03.10.2019.exe.config
+C:\git\Podstawy_programowania\Pierwsze zajecia\Zajęcia 03.10.2019\Zajęcia 03.10.2019\bin\Debug\Zajęcia 03.10.2019.exe
+C:\git\Podstawy_programowania\Pierwsze zajecia\Zajęcia 03.10.2019\Zajęcia 03.10.2019\bin\Debug\Zajęcia 03.10.2019.pdb
+C:\git\Podstawy_programowania\Pierwsze zajecia\Zajęcia 03.10.2019\Zajęcia 03.10.2019\obj\Debug\Zajęcia 03.10.2019.exe
+C:\git\Podstawy_programowania\Pierwsze zajecia\Zajęcia 03.10.2019\Zajęcia 03.10.2019\obj\Debug\Zajęcia 03.10.2019.pdb
